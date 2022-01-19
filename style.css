@@ -104,6 +104,25 @@ img {
     max-width: 200px;
 }
 
+.quote {
+    font-size: 36px;
+    color: #1f2937;
+    padding: 80px;
+    padding-left: 225px;
+    padding-right: 225px;
+    font-style: italic;
+    font-weight: 100;
+}
+
+.credit {
+    margin-top: 30px;
+    margin-left: 600px;
+    color: #1f2937;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+}
+
 .footer {
   bottom: 0;
   left: 0;
